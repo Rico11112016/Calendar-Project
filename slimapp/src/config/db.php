@@ -3,7 +3,7 @@
         // Properties
         private $dbhost = 'localhost';
         private $dbuser = 'root';
-        private $dbpass = 'Wiedzmin3';
+        private $dbpass = '***';
         private $dbname = 'slimapp';
 
         // Connect
